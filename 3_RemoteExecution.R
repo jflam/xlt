@@ -17,6 +17,6 @@ plot(iris)
 
 # Run Shiny app on the server
 
-setwd("Demo")
+setwd("xlt")
 library(shiny)
 runApp()
